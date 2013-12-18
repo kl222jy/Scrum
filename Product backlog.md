@@ -6,23 +6,23 @@ Detta eftersom det inte kommer att finnas lika mycket tid till projektet varje v
 4 Sprintar kommer att genomföras
 
 ##A. Skrivbord
-<!-- 1. Som användare vill jag kunna flytta fönster så att jag kan organisera min överblick -->
+1. *Som användare vill jag kunna flytta fönster så att jag kan organisera min överblick*
 2. Som användare vill jag kunna ändra storlek på fönster så att jag kan anpassa storlek efter hur många fönster jag har uppe
 3. Som användare vill jag kunna stänga fönster så att jag slipper ha program jag är färdig med igång
 4. Som användare vill jag kunna minimera fönster så att jag kan frigöra arbetsyta och ändå ha programmet igång
 5. Som användare vill jag att fönster ska öppnas med varierande placering så att jag lättare kan se hur många som är öppnade
 6. Som användare vill jag att skrivbordet ska vara avgränsat så att jag inte råkar lägga något fönster utanför skärmbilden
-<!-- 7. Som användare vill jag kunna öppna flera instanser av varje program så att jag kan göra mer samtidigt -->
+7. *Som användare vill jag kunna öppna flera instanser av varje program så att jag kan göra mer samtidigt*
 8. Som användare vill jag att fönster ska fokuseras när jag väljer att arbeta med dem så att fönster inte hamnar bakom andra
 9. Som användare vill jag kunna maximera fönster så att jag kan fokusera bättre på ett enskilt program
 10. Som användare vill jag kunna ändra ordning på ikonerna i menyn
 11. Som användare vill jag att mina fönster ska minimeras till en dockningslist
 
 ##B. Bildvisning
-<!-- 1. Som användare vill jag kunna se alla bilder i en lista så att jag får en bra överblick
-2. Som användare vill jag kunna öppna bilder i nya fönster så att jag kan välja storlek och placering
-3. Som användare vill jag kunna sätta en av bilderna till bakgrundsbild så att jag kan få en mer personlig inställning
-4. Som användare vill jag bli informerad om att innehållet laddas vid fördröjning så att jag vet att någonting händer --!>
+1. *Som användare vill jag kunna se alla bilder i en lista så att jag får en bra överblick*
+2. *Som användare vill jag kunna öppna bilder i nya fönster så att jag kan välja storlek och placering*
+3. *Som användare vill jag kunna sätta en av bilderna till bakgrundsbild så att jag kan få en mer personlig inställning*
+4. *Som användare vill jag bli informerad om att innehållet laddas vid fördröjning så att jag vet att någonting händer*
 
 ##C. RSS
 1. Som användare vill jag kunna se rss feeds så att jag kan hålla koll på mina favoritnyheter
