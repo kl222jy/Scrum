@@ -1,3 +1,7 @@
-Utg√•ngspunkten f√∂r uppgift 5.
+#KLOS - Scrum
 
-Laborationshandledningen hittar du h√§r: https://github.com/1dv404/Laborationer/blob/master/Laboration5.md
+##Information
+Externa dokument kommer att l‰nkas h‰rifrÂn
+
+###Sprint backlog
+https://docs.google.com/spreadsheet/ccc?key=0AghG1DKEzPRDdDRuYmhIVVJ4aThLQWRlNFJ5a0tSdEE&usp=sharing
