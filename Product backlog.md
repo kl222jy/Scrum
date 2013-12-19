@@ -1,13 +1,13 @@
 #KLOS
 
 ##Information
-Sprintar kommer att genomföras veckovis mån-fre och sysselsättningsgrad kommer att skilja en del från vecka till vecka. 
-Detta eftersom det inte kommer att finnas lika mycket tid till projektet varje vecka.
-Fyra sprintar kommer att genomföras.
+Sprintar kommer att genomföras veckovis mån-fre och sysselsättningsgrad kommer att skilja en del från vecka till vecka.  
+Detta eftersom det inte kommer att finnas lika mycket tid till projektet varje vecka.  
+Fyra sprintar kommer att genomföras.  
 
 ##Definitioner
-*Punkt som finns med i nuvarande sprint*
-~~Punkt som är avklarad i en tidigare sprint~~
+*Punkt som finns med i nuvarande sprint*  
+~~Punkt som är avklarad i en tidigare sprint~~  
 
 ##A. Skrivbord
 1. Som användare vill jag att fönster ska fokuseras när jag väljer att arbeta med dem så att fönster inte hamnar bakom andra
