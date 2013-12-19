@@ -27,8 +27,8 @@ Varje sprint består av 5st 6h dagar.
 4. *Som användare vill jag bli informerad om att innehållet laddas vid fördröjning så att jag vet att någonting händer*
 
 ##C. RSS
-1. Som användare vill jag kunna se rss feeds så att jag kan hålla koll på mina favoritnyheter
-2. Som användare vill jag kunna välja rss feed så att jag kan hålla koll på flera
+1. *Som användare vill jag kunna se rss feeds så att jag kan hålla koll på mina favoritnyheter*
+2. *Som användare vill jag kunna välja rss feed så att jag kan hålla koll på flera*
 3. Som användare vill jag kunna välja uppdateringsintervall så att jag kan anpassa denna efter hur viktiga nyheterna är
 4. Som användare vill jag kunna se när aktuell feed senast uppdaterades så att jag kan avgöra om det är lönt att forcera en uppdatering
 
@@ -66,8 +66,8 @@ B1	|	5	|	6
 B2	|	4	|	1
 B3	|	3	|	6
 B4	|	4	|	6
-C1	|	4	|	?
-C2	|	3	|	?
+C1	|	4	|	2
+C2	|	3	|	1
 C3	|	3	|	?
 C4	|	2	|	?
 D1	|	5	|	?
