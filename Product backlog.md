@@ -1,7 +1,7 @@
 #KLOS
 
 ##Information
-Varje sprint består av 5st 8h dagar.
+Varje sprint består av 5st 6h dagar.
 
 ##Definitioner
 *Punkt som finns med i nuvarande sprint*  
