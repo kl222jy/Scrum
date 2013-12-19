@@ -1,9 +1,7 @@
 #KLOS
 
 ##Information
-Sprintar kommer att genomföras veckovis mån-fre och sysselsättningsgrad kommer att skilja en del från vecka till vecka.  
-Detta eftersom det inte kommer att finnas lika mycket tid till projektet varje vecka.  
-Fyra sprintar kommer att genomföras.  
+Varje sprint består av 5st 8h dagar.
 
 ##Definitioner
 *Punkt som finns med i nuvarande sprint*  
@@ -46,3 +44,34 @@ Fyra sprintar kommer att genomföras.
 
 ##F. Röj
 1. Som användare vill jag kunna spela röj så att jag har något att göra när jag är ledig
+
+
+
+id	|  prioritet  | skattning
+------|----------|-----------
+A1	|	5	|	?
+A2	|	5	|	1
+A3	|	5	|	2
+A4	|	3	|	?
+A5	|	5	|	?
+A6	|	3	|	?
+A7	|	4	|	?
+A8	|	4	|	?
+A9	|	2	|	?
+A10	|	1	|	?
+A11	|	1	|	?
+B1	|	5	|	6
+B2	|	4	|	1
+B3	|	3	|	6
+B4	|	4	|	6
+C1	|	4	|	?
+C2	|	3	|	?
+C3	|	3	|	?
+C4	|	2	|	?
+D1	|	5	|	?
+E1	|	2	|	?
+E2	|	2	|	?
+E3	|	2	|	?
+E4	|	2	|	?
+E5	|	1	|	?
+F1	|	1	|	?
