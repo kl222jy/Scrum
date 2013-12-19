@@ -47,6 +47,8 @@ Varje sprint består av 5st 8h dagar.
 
 
 
+##Prioritering
+
 id	|  prioritet  | skattning
 ------|----------|-----------
 A1	|	5	|	?
