@@ -11,12 +11,12 @@ Varje sprint består av 5st 6h dagar.
 1. ~~Som användare vill jag att fönster ska fokuseras när jag väljer att arbeta med dem så att fönster inte hamnar bakom andra~~
 2. ~~Som användare vill jag kunna öppna flera instanser av varje program så att jag kan göra mer samtidigt~~
 3. ~~Som användare vill jag kunna flytta fönster så att jag kan organisera min överblick~~
-4. Som användare vill jag kunna ändra storlek på fönster så att jag kan anpassa storlek efter hur många fönster jag har uppe
+4. *Som användare vill jag kunna ändra storlek på fönster så att jag kan anpassa storlek efter hur många fönster jag har uppe*
 5. ~~Som användare vill jag kunna stänga fönster så att jag slipper ha program jag är färdig med igång~~
 6. Som användare vill jag kunna minimera fönster så att jag kan frigöra arbetsyta och ändå ha programmet igång
-7. Som användare vill jag att fönster ska öppnas med varierande placering så att jag lättare kan se hur många som är öppnade
-8. Som användare vill jag att skrivbordet ska vara avgränsat så att jag inte råkar lägga något fönster utanför skärmbilden
-9. Som användare vill jag kunna maximera fönster så att jag kan fokusera bättre på ett enskilt program
+7. *Som användare vill jag att fönster ska öppnas med varierande placering så att jag lättare kan se hur många som är öppnade*
+8. *Som användare vill jag att skrivbordet ska vara avgränsat så att jag inte råkar lägga något fönster utanför skärmbilden*
+9. *Som användare vill jag kunna maximera fönster så att jag kan fokusera bättre på ett enskilt program*
 10. Som användare vill jag kunna ändra ordning på ikonerna i menyn
 11. Som användare vill jag att mina fönster ska minimeras till en dockningslist
 
@@ -29,9 +29,9 @@ Varje sprint består av 5st 6h dagar.
 ##C. RSS
 1. ~~Som användare vill jag kunna se rss feeds så att jag kan hålla koll på mina favoritnyheter~~
 2. ~~Som användare vill jag kunna välja rss feed så att jag kan hålla koll på flera~~
-3. Som användare vill jag kunna välja uppdateringsintervall så att jag kan anpassa denna efter hur viktiga nyheterna är
-4. Som användare vill jag kunna se när aktuell feed senast uppdaterades så att jag kan avgöra om det är lönt att forcera en uppdatering
-5. Som användare vill jag kunna välja bland feeds eller skriva in en egen address
+3. *Som användare vill jag kunna välja uppdateringsintervall så att jag kan anpassa denna efter hur viktiga nyheterna är*
+4. *Som användare vill jag kunna se när aktuell feed senast uppdaterades så att jag kan avgöra om det är lönt att forcera en uppdatering*
+5. *Som användare vill jag kunna välja bland feeds eller skriva in en egen address*
 
 ##D. Memory
 1. ~~Som användare vill jag kunna spela memory så att jag har något att göra på mina raster~~
@@ -39,11 +39,11 @@ Varje sprint består av 5st 6h dagar.
 3. Som användare vill jag kunna se vad som är bästa tid och bästa resultat så att jag har något att tävla emot
 
 ##E. Chatt
-1. Som användare vill jag kunna kommunicera med andra skrivbordsanvändare så att jag kan be om hjälp när jag inte förstår något
-2. Som användare vill jag kunna välja hur många meddelanden som ska visas så att jag kan anpassa detta efter aktivitet
-3. Som användare vill jag kunna byta namn så att jag kan skriva lustiga citat
-4. Som användare vill jag kunna forcera en uppdatering så att jag kan se ändringar direkt om jag har extra bråttom
-5. Som användare vill jag att mina inställningar ska sparas så att jag slipper ställa in detta varje gång
+1. *Som användare vill jag kunna kommunicera med andra skrivbordsanvändare så att jag kan be om hjälp när jag inte förstår något*
+2. *Som användare vill jag kunna välja hur många meddelanden som ska visas så att jag kan anpassa detta efter aktivitet*
+3. *Som användare vill jag kunna byta namn så att jag kan skriva lustiga citat*
+4. *Som användare vill jag kunna forcera en uppdatering så att jag kan se ändringar direkt om jag har extra bråttom*
+5. *Som användare vill jag att mina inställningar ska sparas så att jag slipper ställa in detta varje gång*
 
 ##F. Röj
 1. Som användare vill jag kunna spela röj så att jag har något att göra när jag är ledig
@@ -61,8 +61,8 @@ A4	|	3	|	3
 A5	|	5	|	0
 A6	|	3	|	4
 A7	|	4	|	1
-A8	|	4	|	4
-A9	|	2	|	1
+A8	|	4	|	5
+A9	|	2	|	2
 A10	|	1	|	4
 A11	|	1	|	6
 B1	|	5	|	0
@@ -75,9 +75,9 @@ C3	|	3	|	1
 C4	|	2	|	1
 C5	|	2	|	2
 D1	|	5	|	0
-E1	|	2	|	4
-E2	|	2	|	2
+E1	|	2	|	5
+E2	|	2	|	3
 E3	|	2	|	1
 E4	|	2	|	1
-E5	|	1	|	4
+E5	|	1	|	5
 F1	|	1	|	20
