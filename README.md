@@ -8,4 +8,6 @@ Projektet hittar du på följande adress: https://github.com/kl222jy/1dv403-labora
 Återfinns i filen product backlog.md
 
 ###Sprint backlog
+Samtliga sprintar finns tillgängliga på google docs enligt länk nedan. Vardera sprint har ett eget kalkylblad.
+
 https://docs.google.com/spreadsheet/ccc?key=0AghG1DKEzPRDdDRuYmhIVVJ4aThLQWRlNFJ5a0tSdEE&usp=sharing
