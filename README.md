@@ -3,6 +3,7 @@
 ##Information
 All extern dokumentation kommer att länkas härifrån.  
 Projektet hittar du på följande adress: https://github.com/kl222jy/1dv403-laborationer/tree/master/5-pwd
+Körbar version(utan tester och node, mitt webbhotell stödjer inte det) finns på: http://krad.se/temp/5-pwd
 
 ###Product backlog
 Återfinns i filen product backlog.md

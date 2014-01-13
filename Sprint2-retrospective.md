@@ -1,4 +1,4 @@
-#Sprint-1 Retrospective
+#Sprint-2 Retrospective
 Uppskattningarna blev inte bättre trots att jag lade lite mer tid på det, det handlar kanske bara om att jag inte har koll på hur lång tid uppgifter tar att göra. 
 Javascript är ju ett tidigare helt okänt språk för mig, vilket gör det hela markant svårare. Men jag bör nog fortsätta lägga vikt vid det för att lära mig allmän skattning och då även för okända uppgifter.
 

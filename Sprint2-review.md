@@ -1,8 +1,8 @@
-#Sprint-1 Review
+#Sprint-2 Review
 Målen för sprinten är gott och väl uppfyllda.
 
 ##Ändringar i product backlog
-Alla punkter som blivit avklarade under sprint 1 kommer att strykas, dessa är:  A7, A8, A9, C3, C4, C5, E1, E2, E3, E4, E5, A6, A11, D2, D3  
+Alla punkter som blivit avklarade under sprint 2 kommer att strykas, dessa är:  A7, A8, A9, C3, C4, C5, E1, E2, E3, E4, E5, A6, A11, D2, D3  
 
 Under genomgången upptäcktes en del buggar och några tidigare strukna uppgifter kommer därför att få tas upp igen: <!-- Vet inte riktigt hur jag ska göra med testerna, egentligen behöver tester skrivas till samtliga uppgifter, därför skulle de kanske alla återupptas. Jag kommer dock bara hinna prova på testning och det fanns inte med som ett krav för projektet. -->  
 A1 - Problem med fokus av fönster i firefox, med touchpad och borde fungera på hela fönstret, inte bara titlebar  
